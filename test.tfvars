@@ -1,0 +1,6 @@
+env="test"
+database_rg_name = "database"
+database_costcenter = "2001"
+sa_rg_name = "storageaccount"
+sa_costcenter = "2002"
+location = "East US"
